@@ -5,12 +5,12 @@ header h1 {
     font-weight: 100;
 }
 
-.
+
 p {
     font-family: Helvetica, sans-serif;
 }
 
-.flex_donate {
+.donate-section {
     width: 85%;
 }
 .qrCode {
@@ -23,7 +23,7 @@ p.brag-text {
     display: inline-block;
     width: 40%;
 }
-.flex_donate > * {
+.donate-section > * {
     vertical-align: middle;
 }
 .blog-part {
