@@ -1,0 +1,50 @@
+h1, h2 {
+    font-family: Helvetica, sans-serif;
+}
+header h1 {
+    font-weight: 100;
+}
+
+.
+p {
+    font-family: Helvetica, sans-serif;
+}
+
+.flex_donate {
+    width: 85%;
+}
+.qrCode {
+    width: 40%;
+    height: auto;
+    display: inline-block;
+
+}
+p.brag-text {
+    display: inline-block;
+    width: 40%;
+}
+.flex_donate > * {
+    vertical-align: middle;
+}
+.blog-part {
+    background-color: rgb(216, 213, 208);
+    width: 85%;
+    margin: 0 auto;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.blog-heading {
+    font-family: cursive;
+}
+
+.brag-list:hover {
+    color: rgb(255, 187, 0);
+   
+}
+
+.brag-list {
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+}
+
